@@ -1,0 +1,1 @@
+celery[eventlet,redis] < 4.3
